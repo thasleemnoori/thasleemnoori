@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**thasleemnoori/thasleemnoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am Thasleem Noori,a final-year B.Tech Computer Science Engineering student
+at Dr.MGR. University with hands-on experince in Web Development, Software Engineering
+and Data Analysis.
+I am passionate about crafting solutions using HTML, C#,ASP.NET,SQL.
 
-Here are some ideas to get you started:
+Skills
+Languages:HTML,C++,C#,SQL
+Frameworks:ASP.NET
+Tools:MicrosoftExcel,Visual Studio,Sql Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project
+Smart Classroom Automation
+Built a fully automated system for classroom management Technologies Used: IOT,C++
+Bitcoin System
+Developed a mock crptocurrency framework Technologies Used:SQL,C#
+
+Internship:
+K-Lite Industries Pvt.Ltd ,Ambattur focused on industrial application of software systems
+
+Education:
+B.Tech Computer Science Engineering (Dr.MGR.University)
+First Degree: Computer Science Enginerring (Panimalar College)
